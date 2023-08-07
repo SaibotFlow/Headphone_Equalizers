@@ -1,4 +1,4 @@
-# Headphone_Equalizers
+# Headphones_EQ
 Current headphones: **Beyerdynamic DT990 Pro**
 
 ## Software
